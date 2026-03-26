@@ -17,20 +17,7 @@ const projects = [
     github: 'https://github.com/harirajg7/student-drug-recovery-support-analy',
     live: 'https://student-drug-recovery-support-analy.vercel.app/',
   },
-  {
-    title: 'Vision Puzzle Solver',
-    description: 'An automated solver for visual puzzles, demonstrating algorithmic problem-solving and logical reasoning.',
-    tags: ['Python', 'Algorithms', 'Logic', 'Automation'],
-    highlights: [
-      'Developed an efficient algorithm to solve complex visual puzzles',
-      'Showcased at college technical event for innovation in logic',
-      'Optimized search patterns to reduce computation time',
-      'Implemented a user-friendly interface for puzzle input and output',
-    ],
-    icon: <Puzzle className="text-accent-purple" size={40} />,
-    github: 'https://github.com/harirajg7',
-    live: '#',
-  },
+  
 ];
 
 export default function Projects() {
